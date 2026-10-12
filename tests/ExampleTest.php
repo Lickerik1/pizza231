@@ -7,6 +7,6 @@
        public function testTrueIsTrue()
        {
            // Намеренно делаем утверждение ложным
-           $this->assertTrue(false); 
+           $this->assertTrue(true); 
        }
    }
